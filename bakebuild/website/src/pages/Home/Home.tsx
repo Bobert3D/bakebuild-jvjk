@@ -256,7 +256,7 @@ export default function Home() {
                 className="w-full max-w-50"
                 alt="Image representing Guide Available!"
               />
-              <span>Open guide with buttons below</span>
+              <span>Open guide with buttons below(well technally tho its to the left a lil and down1)</span>
             </span>
           </div>
           <div className="w-full items-center justify-center gap-3 mt-10 flex not-sm:flex-col">
@@ -273,7 +273,7 @@ export default function Home() {
           {/*<div className="flex flex-col justify-center items-center">
             <span className="text-xl font-jaro mt-5">
               You can print cookie cutters on your own printer too! (no filament
-              grants)
+              grants tho...sad but still COOKIES!!!)
             </span>
           </div>*/}
         </div>
@@ -289,7 +289,7 @@ export default function Home() {
           <img src={bakeit} fetchPriority="low" className="lg:max-w-[50vw]" />
           <p className="text-xl mt-3 font-jaro max-w-2xl">
             You can print your own cookie cutters on your own 3d printer (no
-            filament grants tho) or you may request them to be shipped to your
+            filament grants tho...) or you may request them to be shipped to your
             house from Hack Club hq
           </p>
           <div className="text-xl mt-5 text-center font-slackey underline">
